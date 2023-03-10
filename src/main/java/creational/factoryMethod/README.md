@@ -10,6 +10,6 @@
 ## Sử dụng khi nào
 - Khi Super class có nhiều class con, muốn tạo đối tượng class con dựa trên đầu vào
 
-# Lợi ích
+## Lợi ích
 - Dễ dàng mở rộng code, trong trường hợp thêm sub class thì chỉ cần thêm 1 case trong factory method
 - Giảm phụ thuộc giữa client và sub class, thay vào đó client sẽ chỉ tương tác với interface superclass
