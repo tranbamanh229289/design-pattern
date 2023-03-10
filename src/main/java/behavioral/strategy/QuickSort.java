@@ -1,4 +1,4 @@
-package creational.abstractMethod.strategy;
+package behavioral.strategy;
 
 import java.util.List;
 
